@@ -1,3 +1,61 @@
 Nosso **primeiro exemplo** de trecho de texto em markdown.
 > Aqui tem uma [página com os códigos mais frequentes](https://en.support.wordprss.com/markdown-quick-reference/) do Markdown
 
+# This is level 1 (article title)
+## This is level 2
+### This is level 3
+#### This is level 4
+##### This is level 5
+
+This text is **bold**.
+This text is *italic*.
+This text is both ***bold and italic***.
+
+This is not \*italicized\* type.
+1. This is step 1.
+1. This is the next step.
+1. This is yet another step, the third.
+
+* First item in an unordered list.
+* Another item.
+* Here we go again.
+
+1. Set up your table and code blocks.
+1. Perform this step.
+
+   ![screen](/docs/contributor/assets/adobe_standard_logo.png?lang=pt-BR)
+
+1. Make sure that your table looks like this:
+
+   | Hello | World |
+   |---|---|
+   | How | are you? |
+
+1. This is the fourth step.
+
+   >[!NOTE]
+   >
+   >This is note text.
+
+1. Do another step.
+
+
+| Header | Another header | Yet another header |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
+
+
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+>[!TIP]
+>
+>This is a standard TIP.
+
+
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
+
